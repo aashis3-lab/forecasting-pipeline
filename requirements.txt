@@ -1,0 +1,6 @@
+# libraries needed for project.
+
+snowflake-connector-python
+pandas
+anthropic
+python-dotenv
